@@ -26,7 +26,8 @@ export default function Page() {
             Workation helps you find work-friendly rentals in beautiful locations so you can enjoy some nice weather even when you're not on vacation.
           </p>
           <div className="mt-4 sm:mt-6">
-            <a href="#" className="inline-block px-5 py-3 rounded-lg shadow-lg bg-indigo-500 text-sm text-white uppercase tracking-wider font-semibold sm:text-base">Book your escape</a>
+            <a href="#" className="btn-indigo shadow-lg sm:text-base">Book your escape</a>
+            <a href="#" className="ml-2 btn-gray sm:text-base">Learn more</a>
           </div>
         </div>
       </div>
